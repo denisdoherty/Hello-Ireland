@@ -1,2 +1,2 @@
 # Hello-Ireland
-This is a demo Repo
+This is a simple demo Repo
